@@ -26,58 +26,39 @@ catagories: [(4.1)]
         <tr>
             <th>Year</th>
             <th>Average SAT</th>
-            <th>Average PSAT</th>
             <th>Average ACT</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>2015</td>
-            <td>Broughan</td>
-            <td>1969</td>
-            <td>Black</td>
-        </tr>
-        <tr>
-            <td>2016</td>
-            <td>1232</td>
-            <td>1997</td>
-            <td>Green</td>
-        </tr>
-        <tr>
             <td>2017</td>
-            <td>Excursion</td>
-            <td>2003</td>
-            <td>Green</td>
+            <td>1060</td>
+            <td>21.0</td>
         </tr>
         <tr>
             <td>2018</td>
-            <td>Ranger</td>
-            <td>2012</td>
-            <td>Red</td>
+            <td>1068</td>
+            <td>20.8</td>
         </tr>
         <tr>
             <td>2019</td>
-            <td>L3301 Tractor</td>
-            <td>2015</td>
-            <td>Orange</td>
+            <td>1059</td>
+            <td>20.7</td>
         </tr>
         <tr>
             <td>2020</td>
-            <td>Fusion Energi</td>
-            <td>2015</td>
-            <td>Guard</td>
+            <td>1051</td>
+            <td>20.6</td>
         </tr>
         <tr>
             <td>2021</td>
-            <td>XL</td>
-            <td>2006</td>
-            <td>Grey</td>
+            <td>1060</td>
+            <td>20.3</td>
         </tr>
         <tr>
             <td>2022</td>
-            <td>F150 Lightning</td>
-            <td>2024</td>
-            <td>Guard</td>
+            <td>1050</td>
+            <td>19.8</td>
         </tr>
     </tbody>
 </table>
