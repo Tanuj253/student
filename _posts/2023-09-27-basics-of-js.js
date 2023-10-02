@@ -1,5 +1,5 @@
 
-%%js
+js
 
 // Generate two random numbers between 1 and 10
 var a = Math.floor(Math.random() * 10) + 1;

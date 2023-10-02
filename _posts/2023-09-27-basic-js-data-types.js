@@ -1,4 +1,4 @@
-%%js
+js
 
 var me = {
     name: "Tanujsai Nimmagadda",
